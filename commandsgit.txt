@@ -1,5 +1,6 @@
 these are git commands
-ssssssssssss
+
+
  add                     Add file contents to the index
    am                      Apply a series of patches from a mailbox
    archive                 Create an archive of files from a named tree
@@ -43,5 +44,6 @@ ssssssssssss
    submodule               Initialize, update or inspect submodules
    switch                  Switch branches
    tag                     Create, list, delete or verify a tag object signed with GPG
-   worktree                Manage multiple working trees
+   worktree               Manage multiple working trees
+end
 
