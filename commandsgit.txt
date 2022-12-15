@@ -45,5 +45,3 @@ these are git commands
    switch                  Switch branches
    tag                     Create, list, delete or verify a tag object signed with GPG
    worktree               Manage multiple working trees
-end
-
