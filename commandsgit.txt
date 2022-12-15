@@ -43,5 +43,6 @@ these are git commands
    submodule               Initialize, update or inspect submodules
    switch                  Switch branches
    tag                     Create, list, delete or verify a tag object signed with GPG
-   worktree                Manage multiple working trees
+   worktree               Manage multiple working trees
+end
 
