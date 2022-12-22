@@ -27,3 +27,6 @@ hii
 Namaste Vanakam namaskar
 sukriya
 hello Soumya
+Doremon
+Ninja
+Happy Chirstmas
