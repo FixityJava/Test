@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
+
 sashi as kala the first topper
-=======
 rekha 
 sash gjghjs ikala the first topper
->>>>>>> ebfb6255ac5b4aa986b1fa946f15b2d133a8c82e
+
 jaya   ins sree
 the topper
 asdhskjd
@@ -18,3 +18,20 @@ adjashjsd
 nmcxnjcd
 hgdhdjddjks478489909090
 hii
+
+haii jayasreee
+
+Ninja
+Happy Chirstmas
+Merry Chirstmas
+Happy Birthday papa
+shinchan
+Santa claus
+Secret santa will come and will give you a gift
+Be happy and well 
+Make this moment special by spending some time for yourself
+Java Batch 03 - (-> Head Sri Krishna Sir)
+                Abrar, Bhavani, Soumya,  Geetha, Sandhya, Priyanka, Nishitha, Kumar, Yashwanth
+
+Kumarrrrrrrrrrrrrrrrrr
+
